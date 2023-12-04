@@ -1,6 +1,6 @@
 # Task Manager
 
-A simple console application for managing tasks.
+A simple console application for managing tasks build using C#.
 
 ## Features
 
